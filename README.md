@@ -1,3 +1,3 @@
 # hello-world
-My first repo on Github
-Its very exciting
+My first repository on Github
+
